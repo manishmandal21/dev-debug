@@ -1,0 +1,17 @@
+fieldset#dev_debug-view-log-file p:before{
+    content: "\2022";
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    left: 3px;
+    margin-top: -13px;
+    margin-right: 10px;
+
+}
+fieldset#dev_debug-view-log-file p{
+    font-weight: bold;
+    color: black;
+}
+.redux-timer{
+    display: none;
+}
